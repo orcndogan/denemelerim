@@ -10,3 +10,15 @@ h1 {
 h1:hover {
     color: orange;
 }
+nav {
+    text-align: center;
+}
+img {
+    width: 5%;
+}
+nav button {
+    text-align: center;
+    background: center / contain no-repeat url("../basket.avif");
+    padding: 10px;
+    color: grey;
+}
