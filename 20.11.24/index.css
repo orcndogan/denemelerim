@@ -1,0 +1,12 @@
+body {
+    border: 1rem solid red;
+    padding: 0.5rem;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+h1:hover {
+    color: orange;
+}
